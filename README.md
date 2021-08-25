@@ -1,2 +1,4 @@
 # cf_second_project
-coder foundry second project learning git
+coder foundry second project learning git.
+
+Hello everyone
